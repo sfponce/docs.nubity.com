@@ -1,0 +1,11 @@
+{% if site.related_posts.size > 0 %}
+
+<hr>
+
+<h4>Related Posts</h4>
+
+{% for post in site.related_posts %}
+  <a href="{{ post.url }}">{{ post.title }}</a><br />
+{% endfor %}
+
+{% endif %}
