@@ -1,4 +1,4 @@
-### Description
+## Description
 
 It checks web sites status over HTTPS by looking for a phrase in the site content.
 
@@ -10,10 +10,10 @@ Features:
 *   String content verification
 *   HTTP status code verification
 
-### Requirements
+## Requirements
 
 The site must be browseable by `HTTPS`
 
-### Setup
+## Setup
 
 Go to `Plugin configuration` tab and set your site details (domain, URL, etc).

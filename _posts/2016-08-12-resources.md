@@ -1,3 +1,9 @@
+---
+title: System resources
+section: Linux monitoring plugins
+index: 0
+---
+
 ## Description
 
 Collect metrics and create alerts of every aspect of your system resources.

@@ -1,9 +1,9 @@
 ---
 title: Apache Webserver
-section: Plugins summary
-index: 0
+section: Linux monitoring plugins
+index: 2
 ---
-### Description
+## Description
 
 It gathers performance metrics about Apache web server.
 
@@ -26,11 +26,11 @@ Features:
 *   Total available slots
 *   Bytes received/sent
 
-### Requirements
+## Requirements
 
 Apache server-status page has to be enabled and accessible from localhost.
 
-### Setup
+## Setup
 
 1.  Enable server-status module in Apache config file.
 

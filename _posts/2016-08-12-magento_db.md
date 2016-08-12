@@ -1,4 +1,10 @@
-### Description
+---
+title: Magento database
+section: Linux monitoring plugins
+index: 4
+---
+
+## Description
 
 Monitor your Magento purchase workflow through the database.
 
@@ -9,7 +15,7 @@ Features:
 *   Orders created per minute.
 *   Quotes created per minute.
 
-### Requirements
+## Requirements
 
 *   MySQL user with read-only access to Magento DB
 *   `Python` >= `2.6`
@@ -17,7 +23,7 @@ Features:
 *   `PyYAML` Python module
 *   `simplejson` Python module
 
-### Setup
+## Setup
 
 1.  Create the read-only MySQL user:
 ```bash

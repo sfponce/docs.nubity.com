@@ -3,14 +3,13 @@
 
 {% if next_page or previous_page %}
 <div class="paginator">
-
-{% if next_page %}
-<p>{% icon fa-arrow-circle-o-right %} <a href="{{ site.baseurl }}{{ next_page.url }}">{{ next_page.title }}</a></p>
-{% endif %}
-
+<p>
 {% if previous_page %}
-<p>{% icon fa-arrow-circle-o-left %} <a href="{{ site.baseurl }}{{ previous_page.url }}">{{ previous_page.title }}</a></p>
+{% icon fa-arrow-circle-o-left %} <a href="{{ site.baseurl }}{{ previous_page.url }}">{{ previous_page.title }}</a>
 {% endif %}
-
+ |
+{% if next_page %}
+{% icon fa-arrow-circle-o-right %} <a href="{{ site.baseurl }}{{ next_page.url }}">{{ next_page.title }}</a></p>
+{% endif %}
 </div>
 {% endif %}

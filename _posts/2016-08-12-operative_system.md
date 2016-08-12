@@ -1,4 +1,10 @@
-### Description
+---
+title: Operative system
+section: Linux monitoring plugins
+index: 0
+---
+
+## Description
 
 It collects metrics and creates alerts of every aspect of your system resources. Monitor your basic services like SSH and get OS information.
 

@@ -1,3 +1,4 @@
 - name: Overview
 - name: Installing the agent
-- name: Plugins summary
+- name: Linux monitoring plugins
+- name: Windows plugins summary
