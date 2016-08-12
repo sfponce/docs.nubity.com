@@ -1,4 +1,6 @@
-This repository contains all that is needed to fully generate the [Knowledge Base](https://www.wisecashhq.com/help/what-is-wisecash) of my cash-flow forecasting SaaS app [WiseCash](https://www.wisecashhq.com).
+This repository contains all that is needed to fully generate the [Knowledge Base](http://docs.nubity.com) of Nubity Monitor agent
+
+This repo is forked from [wisecash-support](https://github.com/wisecash/wisecash-support)
 
 Make sure to read the companion article: [Lessons Learned Building a Git-Based Knowledge Base for my SaaS product](https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product).
 
@@ -19,7 +21,7 @@ You can freely reuse this repository as a starting point to create your own Know
 This is mostly:
 
 ```
-cd wisecash-support-clone
+cd nubity-help
 bundle exec jekyll build --destination $target_folder -c _config.yml,_private_config.yml
 ```
 
