@@ -1,7 +1,8 @@
 ---
 title: Memcached
-section: Linux monitoring plugins
+section: Caches
 index: 0
+tag: cache
 ---
 
 ## Description

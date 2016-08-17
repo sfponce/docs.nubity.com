@@ -1,4 +1,9 @@
 - name: Overview
 - name: Installing the agent
-- name: Linux monitoring plugins
-- name: Windows plugins summary
+- name: Basic Systems
+- name: Databases
+- name: Web Servers
+- name: App Servers
+- name: Caches
+- name: Web Apps
+- name: Websites

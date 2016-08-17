@@ -1,7 +1,10 @@
 ---
-title: Apache Webserver
-section: Linux monitoring plugins
+title: Apache HTTPD
+section: Web Servers
 index: 2
+tag:
+- webserver
+- lamp
 ---
 ## Description
 

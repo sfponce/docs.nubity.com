@@ -1,7 +1,8 @@
 ---
 title: Operative system
-section: Linux monitoring plugins
+section: Basic Systems
 index: 0
+tag: basic
 ---
 
 ## Description

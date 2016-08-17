@@ -1,7 +1,8 @@
 ---
 title: System resources
-section: Linux monitoring plugins
-index: 0
+section: Basic Systems
+index: 1
+tag: basic
 ---
 
 ## Description

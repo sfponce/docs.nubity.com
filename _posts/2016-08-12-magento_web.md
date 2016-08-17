@@ -1,7 +1,8 @@
 ---
 title: Magento frontend
-section: Linux monitoring plugins
+section: Web Apps
 index: 4
+tag: magento
 ---
 
 ## Description
